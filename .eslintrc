@@ -1,0 +1,71 @@
+{
+    "parser": "babel-eslint",
+    "plugins": ["prettier", "react"],
+    "parserOptions": {
+      "ecmaFeatures": {
+        "jsx": true,
+        "modules": true
+      }
+    },
+    "extends": ["react-app", "prettier", "prettier/react"],
+    "rules": {
+      // "no-console": ["error", { "allow": ["warn", "error"] }],
+      "react/jsx-key": "warn",
+      "react-hooks/rules-of-hooks": "error",
+      "react-hooks/exhaustive-deps": "warn",
+      "react/jsx-sort-props": [
+        1,
+        {
+          "callbacksLast": true
+        }
+      ],
+      "react/sort-prop-types": [
+        1,
+        {
+          "callbacksLast": true
+        }
+      ],
+      "react/jsx-no-bind": 0,
+      "jsx-a11y/href-no-hash": 0,
+      "jsx-a11y/anchor-is-valid": [
+        1,
+        {
+          "aspects": ["invalidHref"]
+        }
+      ],
+      "prettier/prettier": [
+        1,
+        {
+          "singleQuote": true,
+          "semi": false,
+          "printWidth": 80,
+          "bracketSpacing": true
+        }
+      ],
+      "max-len": [
+        2,
+        {
+          "code": 80,
+          "ignoreUrls": true,
+          "ignoreRegExpLiterals": true
+        }
+      ],
+      "prefer-const": 2,
+      "no-confusing-arrow": 0,
+      "no-duplicate-imports": 2,
+      "no-undef-init": "error",
+      "camelcase": [2, {"properties": "never", "ignoreDestructuring": true}],
+      "lines-between-class-members": ["warn", "always"],
+      "no-multiple-empty-lines": ["warn", { "max": 2, "maxEOF": 1 }],
+      "no-trailing-spaces": "warn",
+      "react/sort-comp": [2],
+      "react/jsx-handler-names": [
+        2,
+        {
+          "eventHandlerPrefix": "handle",
+          "eventHandlerPropPrefix": "on"
+        }
+      ],
+      "constructor-super": "error"
+    }
+  }

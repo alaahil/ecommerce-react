@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "4928101633",
+    "firebase_url": "https://bidfood-6588a-default-rtdb.firebaseio.com",
+    "project_id": "bidfood-6588a",
+    "storage_bucket": "bidfood-6588a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4928101633:android:9b89bbdeced148cc964f00",
+        "android_client_info": {
+          "package_name": "com.bidfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4928101633-ga1d3gn5p4p03bne4rld490hr6lead9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPnp6HYYyWlKzulWByZb1e1JrqvbMWRXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4928101633-ga1d3gn5p4p03bne4rld490hr6lead9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "4928101633-jgpi8efhkr8clrbd07jvo331jjoni0t0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.retailak.bidfood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4928101633:android:4bd910a4e599c46c964f00",
+        "android_client_info": {
+          "package_name": "com.retailak.bidfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4928101633-ga1d3gn5p4p03bne4rld490hr6lead9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPnp6HYYyWlKzulWByZb1e1JrqvbMWRXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4928101633-ga1d3gn5p4p03bne4rld490hr6lead9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "4928101633-jgpi8efhkr8clrbd07jvo331jjoni0t0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.retailak.bidfood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4928101633:android:3db2cce8f22ef0bb964f00",
+        "android_client_info": {
+          "package_name": "com.retailak.bidfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4928101633-6eqb440njftpll483bfag1abursr9pfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retailak.bidfoods",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "4928101633-mgf5ks70p4kdcbiici46c0pi3s0j8r7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retailak.bidfoods",
+            "certificate_hash": "414d986aaf932f31790b7f80caa2cab9c9d720fe"
+          }
+        },
+        {
+          "client_id": "4928101633-ga1d3gn5p4p03bne4rld490hr6lead9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPnp6HYYyWlKzulWByZb1e1JrqvbMWRXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4928101633-ga1d3gn5p4p03bne4rld490hr6lead9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "4928101633-jgpi8efhkr8clrbd07jvo331jjoni0t0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.retailak.bidfood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

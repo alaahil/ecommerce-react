@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>4928101633-k9pe8eifvfk4f101ojsb3elivoeialbu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.4928101633-k9pe8eifvfk4f101ojsb3elivoeialbu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8-5AcAfZMXW12A3yZp_I9kbY8vQLK3yQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>4928101633</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.retailak.bidfood</string>
+	<key>PROJECT_ID</key>
+	<string>bidfood-6588a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bidfood-6588a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:4928101633:ios:8e133d4e27a00e27964f00</string>
+	<key>DATABASE_URL</key>
+	<string>https://bidfood-6588a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
